@@ -2,7 +2,7 @@
 
 ## Clone repo
 ```
-git clone https://github.com/atulkamble/asg-lb-webserver-automation
+git clone https://github.com/atulkamble/asg-lb-webserver-automation.git
 cd asg-lb-webserver-automation
 ```
 
