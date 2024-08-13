@@ -1,5 +1,3 @@
----
-
 # Automated Deployment of Web Servers with Auto Scaling Group and Load Balancer
 
 # Clone repo
@@ -64,7 +62,5 @@ This project demonstrates the deployment of a scalable web server environment us
    - **Delete Auto Scaling Group:** Remove the ASG, noting that associated instances will be terminated automatically.
    - **Delete Target Group:** Remove the target group from the Load Balancer configuration.
    - **Delete Load Balancer:** Delete the Elastic Load Balancer to complete the cleanup.
-
----
 
 This project provides a detailed, step-by-step guide to setting up a scalable web server infrastructure using AWS services, ensuring high availability and load balancing for your applications.
