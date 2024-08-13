@@ -1,6 +1,6 @@
 # Automated Deployment of Web Servers with Auto Scaling Group and Load Balancer
 
-# Clone repo
+## Clone repo
 ```
 git clone https://github.com/atulkamble/asg-lb-webserver-automation
 cd asg-lb-webserver-automation
